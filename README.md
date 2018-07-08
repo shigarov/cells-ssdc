@@ -1,3 +1,6 @@
+# DEPRECATED
+This is no longer supported, please consider using [TabbyXL2](https://github.com/cellsrg/tabbyxl2) instead.
+
 # cells-ssdc
 Research System for Rule-Based Canonicalization of Arbitrary Tables in Spreadsheets
 
